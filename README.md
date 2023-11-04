@@ -1,7 +1,7 @@
 
 > Open this page at [https://katherine-taylor.github.io/sample_survey_tutorial/](https://katherine-taylor.github.io/sample_survey_tutorial/)
 
-See the tutorial [here](/tutorial)
+See the tutorial [here](/sample_survey_tutorial/tutorial)
 
 To run the tutorial in makecode, click [here](https://makecode.microbit.org/#tutorial:github:katherine-taylor/sample_survey_tutorial/tutorial)
 
