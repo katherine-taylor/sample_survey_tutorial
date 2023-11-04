@@ -1,7 +1,7 @@
 
 > Open this page at [https://katherine-taylor.github.io/sample_survey_tutorial/](https://katherine-taylor.github.io/sample_survey_tutorial/)
 
-See the tutorial [here](sample_survey_tutorial/tutorial)
+See the tutorial [here](/sample_survey_tutorial/tutorial)
 Tutorial created from the video [Science experiments 02 Population Trait Counter](https://www.youtube.com/watch?v=NNZEMiJHY2o)
 
 ## Use as Extension
